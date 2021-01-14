@@ -1,0 +1,56 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.6);
+  margin-top: 2%;
+  margin-left: 18%;
+  margin-right: 18%;
+  border-radius: 15px;
+  padding: 5%;
+  padding-bottom: 7.8%;
+}
+header {
+  text-align: center;
+  color: lime;
+}
+.logo {
+  width: 200px;
+}
+header > h1 {
+  margin: 0;
+}
+nav{
+  background-color: lime;
+  text-align: center;
+  padding: 8px;
+}
+main {
+  color: white;
+}
+main p {
+  margin: 0;
+}
+.monopattino > h2 {
+  display: inline-block;
+  margin-bottom: 0;
+}
+.carica {
+  height: 25px;
+  border-radius: 5px;
+}
+#m1 {
+  width: 35%;
+  background-color: rgb(220, 150, 80);
+}
+#m2 {
+  width: 60%;
+  background-color: rgb(60, 250, 60);
+}
+#m3 {
+  width: 15%;
+  background-color: rgb(180, 60, 50);
+}
